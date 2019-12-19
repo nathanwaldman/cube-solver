@@ -1,0 +1,20 @@
+target
+
+.idea
+*.iml
+*.ipr
+*.iws
+
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+### Scala ###
+*.class
+*.log
