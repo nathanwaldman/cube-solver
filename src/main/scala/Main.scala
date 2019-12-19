@@ -1,6 +1,6 @@
 import scala.collection.mutable.ListBuffer
 
-object Main2 extends App {
+object Main extends App {
     val start = System.currentTimeMillis()
     val size = 5
     val v: Array[Boolean] = Array.ofDim(size * size * size)
